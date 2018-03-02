@@ -1,0 +1,6 @@
+com/github/wxiaoqi/ace/merge/demo/biz/UserBiz.class
+com/github/wxiaoqi/ace/merge/demo/feign/IDataFeign.class
+com/github/wxiaoqi/ace/merge/demo/DemoBootstrap.class
+com/github/wxiaoqi/ace/merge/demo/merge/TestMergeResultParser.class
+com/github/wxiaoqi/ace/merge/demo/rest/UserRest.class
+com/github/wxiaoqi/ace/merge/demo/entity/User.class

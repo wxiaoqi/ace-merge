@@ -1,0 +1,11 @@
+com/github/wxiaoqi/merge/configuration/MergeProperties.class
+com/github/wxiaoqi/merge/annonation/MergeField.class
+com/github/wxiaoqi/merge/configuration/MergeAutoConfiguration.class
+com/github/wxiaoqi/merge/core/MergeCore$1.class
+com/github/wxiaoqi/merge/annonation/MergeResult.class
+com/github/wxiaoqi/merge/EnableAceMerge.class
+com/github/wxiaoqi/merge/aspect/MergeAspect.class
+com/github/wxiaoqi/merge/facade/DefaultMergeResultParser.class
+com/github/wxiaoqi/merge/facade/IMergeResultParser.class
+com/github/wxiaoqi/merge/core/MergeCore.class
+com/github/wxiaoqi/merge/core/BeanFactoryUtils.class

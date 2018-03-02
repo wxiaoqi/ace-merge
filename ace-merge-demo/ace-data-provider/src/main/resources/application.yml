@@ -1,0 +1,17 @@
+server:
+    port: 9998
+
+logging:
+    level:
+        org.springframework.core: INFO
+
+spring:
+    application:
+        name: ace-data-provider
+
+eureka:
+    instance:
+        preferIpAddress: true
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/

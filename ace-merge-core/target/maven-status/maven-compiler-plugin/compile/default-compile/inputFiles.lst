@@ -1,0 +1,10 @@
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/annonation/MergeResult.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/configuration/MergeAutoConfiguration.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/configuration/MergeProperties.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/facade/IMergeResultParser.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/EnableAceMerge.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/core/MergeCore.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/facade/DefaultMergeResultParser.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/core/BeanFactoryUtils.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/aspect/MergeAspect.java
+/Users/ace/git/AG-Merge/ace-merge-core/src/main/java/com/github/wxiaoqi/merge/annonation/MergeField.java

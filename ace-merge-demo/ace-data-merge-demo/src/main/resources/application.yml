@@ -1,0 +1,26 @@
+server:
+    port: 9997
+
+logging:
+    level:
+        org.springframework.core: INFO
+
+spring:
+    application:
+        name: ace-data-merge-demo
+
+eureka:
+    instance:
+        preferIpAddress: true
+    client:
+        serviceUrl:
+            defaultZone: http://localhost:8761/eureka/
+
+# 跨服务数据合并
+merge:
+  enabled: true
+  guavaCacheNumMaxSize: 1000
+  guavaCacheRefreshWriteTime: 10 # min
+  guavaCacheRefreshThreadPoolSize: 10
+  aop: # 启动注解的方式,自动聚合
+    enabled: true
